@@ -1,0 +1,138 @@
+
+> sergi-tech@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.26
+   - Local:        http://localhost:3000
+   - Network:      http://172.18.176.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 8.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 26s (1794 modules)
+ GET / 200 in 30044ms
+ ⨯ [TypeError: controller[kState].transformAlgorithm is not a function] {
+  digest: '177433651'
+}
+ GET / 200 in 1352ms
+ GET / 200 in 1434ms
+ GET / 200 in 1470ms
+ ○ Compiling /promotions ...
+ ✓ Compiled /promotions in 4s (1793 modules)
+ GET /promotions 200 in 6734ms
+ ○ Compiling /produit/[slug] ...
+ ✓ Compiled /produit/[slug] in 3.1s (1717 modules)
+ GET /produit/manette-ps5 200 in 8169ms
+ GET /produit/manette-ps5 200 in 636ms
+ GET /produit/manette-ps5 200 in 636ms
+ GET /produit/manette-ps5 200 in 639ms
+ GET /produit/manette-ps5 200 in 641ms
+ ○ Compiling /boutique ...
+ ✓ Compiled /boutique in 1947ms (1738 modules)
+ GET /boutique?categorie=ordinateurs 200 in 2449ms
+ GET /boutique?categorie=ordinateurs 200 in 460ms
+ GET /boutique?categorie=ordinateurs 200 in 459ms
+ GET /boutique?categorie=ordinateurs 200 in 125ms
+ GET /boutique?categorie=ordinateurs 200 in 125ms
+ ○ Compiling / ...
+ ✓ Compiled / in 896ms (1016 modules)
+ GET / 200 in 3645ms
+ GET / 200 in 1616ms
+ GET / 200 in 1621ms
+ GET / 200 in 1587ms
+ ✓ Compiled in 3.7s (814 modules)
+ ○ Compiling /produit/[slug] ...
+ ✓ Compiled /produit/[slug] in 2.4s (925 modules)
+ GET /produit/manette-ps5 200 in 9593ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1041ms (985 modules)
+ GET / 200 in 9500ms
+ ○ Compiling /promotions ...
+ ✓ Compiled /promotions in 1701ms (992 modules)
+ GET /promotions 200 in 4894ms
+ ○ Compiling /boutique ...
+ ✓ Compiled /boutique in 1595ms (1005 modules)
+ GET /boutique 200 in 4123ms
+ ○ Compiling /produit/[slug] ...
+ ✓ Compiled /produit/[slug] in 1328ms (1022 modules)
+ GET /produit/manette-ps5 200 in 3252ms
+ ✓ Compiled in 4.6s (814 modules)
+ ○ Compiling /promotions ...
+ ✓ Compiled /promotions in 2.2s (928 modules)
+ GET /promotions 200 in 5364ms
+ GET /promotions 200 in 412ms
+ GET /promotions 200 in 411ms
+ ○ Compiling / ...
+ ✓ Compiled / in 999ms (985 modules)
+ GET / 200 in 7182ms
+ ○ Compiling /promotions ...
+ ✓ Compiled /promotions in 620ms (992 modules)
+ GET /promotions 200 in 3094ms
+ ○ Compiling /boutique ...
+ ✓ Compiled /boutique in 2.1s (1005 modules)
+ GET /boutique 200 in 4706ms
+ ○ Compiling /produit/[slug] ...
+ ✓ Compiled /produit/[slug] in 1650ms (1022 modules)
+ GET /produit/manette-ps5 200 in 4287ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 4.7s (1857 modules)
+ GET /contact 200 in 7406ms
+ ○ Compiling /panier ...
+ ✓ Compiled /panier in 2.6s (1861 modules)
+ GET /panier 200 in 4175ms
+ ○ Compiling /a-propos ...
+ ✓ Compiled /a-propos in 2s (1871 modules)
+ GET /a-propos 200 in 3565ms
+ ○ Compiling /faq ...
+ ✓ Compiled /faq in 1906ms (1874 modules)
+ GET /faq 200 in 3069ms
+ ○ Compiling /devis ...
+ ✓ Compiled /devis in 1713ms (1809 modules)
+ GET /devis 200 in 5503ms
+ ○ Compiling /cgv ...
+ ✓ Compiled /cgv in 2.4s (1787 modules)
+ GET /contact 200 in 741ms
+ GET /panier 200 in 616ms
+ GET /a-propos 200 in 974ms
+ GET /faq 200 in 656ms
+ GET /devis 200 in 668ms
+ GET /cgv 200 in 629ms
+ ○ Compiling /mentions-legales ...
+ ✓ Compiled /mentions-legales in 3.8s (1789 modules)
+ GET /mentions-legales 200 in 5843ms
+ ○ Compiling /confidentialite ...
+ ✓ Compiled /confidentialite in 2.1s (1791 modules)
+ GET /confidentialite 200 in 3959ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.3s (1005 modules)
+ ○ Compiling /produit/[slug] ...
+ ✓ Compiled /produit/[slug] in 5s (1023 modules)
+ GET / 200 in 11658ms
+ GET /produit/asus-vivobook-15 200 in 8136ms
+ GET / 200 in 3734ms
+ GET /produit/kingston-fury-beast-16go 200 in 800ms
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 2.6s (1109 modules)
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 13.5s (2018 modules)
+ GET /admin 200 in 6245ms
+ ○ Compiling /admin/produits/[id] ...
+ ✓ Compiled /admin/produits/[id] in 4.3s (1956 modules)
+ GET /admin/produits/p22 200 in 7129ms
+ ○ Compiling /api/produits/[id] ...
+ ✓ Compiled /api/produits/[id] in 2.8s (1971 modules)
+ PUT /api/produits/p22 200 in 5649ms
+ GET /admin/produits/p22 200 in 431ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1273ms (1181 modules)
+ GET / 200 in 7421ms
+ GET / 200 in 730ms
+ GET / 200 in 2295ms
+ ○ Compiling /boutique ...
+ ✓ Compiled /boutique in 3.2s (1177 modules)
+ GET /boutique 200 in 4046ms
+ GET /boutique 200 in 149ms
+ GET / 200 in 1005ms
+ GET / 200 in 3030ms
+ GET / 200 in 1553ms
